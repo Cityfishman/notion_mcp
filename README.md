@@ -2,6 +2,10 @@
 
 一个基于 Model Context Protocol (MCP) 的 Notion API 集成工具，让 AI 助手能够操作你的 Notion 工作区。
 
+notion官方提供了操作工作空间的API借口,你需要在notion中申请该API。
+你可以在claude中部署该mcp工具，这样的你在claude中就可以直接命令AI在你的notion工作空间中读取、修改、生成你所需要的内容。
+你也可以通过 superassistant网页插件来使用该mcp工具，这样你就可以命令gemini、claude、gpt等网页端模型来操纵你的notion工作空间。
+
 ## 功能特性
 
 ### 已实现工具 (Tools)
