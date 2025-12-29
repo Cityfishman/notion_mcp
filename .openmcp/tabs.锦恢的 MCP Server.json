@@ -1,0 +1,17 @@
+{
+  "clientId": "4b0407a6-07a6-5407a63e798-8407a63e79899b8-899b8fd1",
+  "currentIndex": 0,
+  "tabs": [
+    {
+      "name": "空白测试",
+      "icon": "icon-blank",
+      "type": "blank",
+      "componentIndex": -1,
+      "storage": {
+        "activeNames": [
+          0
+        ]
+      }
+    }
+  ]
+}

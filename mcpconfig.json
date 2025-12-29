@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "notion": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/m/notion_ai_mcp",
+        "run",
+        "mcp",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}
